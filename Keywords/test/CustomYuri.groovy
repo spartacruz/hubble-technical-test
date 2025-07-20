@@ -50,11 +50,12 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook
 class CustomYuri {
 	@Keyword
 	def waitForElementSpinnersNotPresent() {
-		TestObject[] spinners = [findTestObject('Object Repository/0_reusable/loadingSpinnerTopRight'),
+		TestObject[] spinners = [
+			findTestObject('Object Repository/0_reusable/loadingSpinnerTopRight'),
 			findTestObject('Object Repository/0_reusable/loadingBarTop'),
 			findTestObject('Object Repository/0_reusable/loadingSpinnerMidProduct')
-			]
-		
+		]
+
 		for (TestObject element : spinners) {
 			WebUI.waitForElementNotPresent(element, GlobalVariable.waitForTimeout)
 		}
