@@ -59,13 +59,7 @@ for (int i = 1; i <= toPage; i++) {
 		WebUI.sendKeys(btnNextPage, Keys.chord(Keys.ARROW_DOWN))
 		WebUI.click(btnNextPage);
 		
-		TestObject[] spinners = [findTestObject('Object Repository/0_reusable/loadingSpinnerTopRight'),
-			findTestObject('Object Repository/0_reusable/loadingBarTop')
-			]
-		
-		for (TestObject element : spinners) {
-			WebUI.waitForElementNotPresent(element, GlobalVariable.waitForTimeout)
-		}
+		CustomKeywords.'test.CustomYuri.waitForElementSpinnersNotPresent'()
 	}
 }
 

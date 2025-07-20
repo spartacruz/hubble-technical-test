@@ -48,9 +48,19 @@ import com.kms.katalon.keyword.excel.*
 import org.apache.poi.hssf.usermodel.HSSFWorkbook
 
 class CustomYuri {
-	
-	
-	
+	@Keyword
+	def waitForElementSpinnersNotPresent() {
+		TestObject[] spinners = [findTestObject('Object Repository/0_reusable/loadingSpinnerTopRight'),
+			findTestObject('Object Repository/0_reusable/loadingBarTop'),
+			findTestObject('Object Repository/0_reusable/loadingSpinnerMidProduct')
+			]
+		
+		for (TestObject element : spinners) {
+			WebUI.waitForElementNotPresent(element, GlobalVariable.waitForTimeout)
+		}
+	}
+
+
 	/**
 	 * Credit to mujahed.abuabdo, Katalon community member
 	 * With some modify from Yuri, to match with personal usecase

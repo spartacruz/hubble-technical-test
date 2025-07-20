@@ -35,13 +35,7 @@ WebUI.click(selectDropdownObj)
 
 WebUI.click(optionSelect)
 
-TestObject[] spinners = [findTestObject('Object Repository/0_reusable/loadingSpinnerTopRight'),
-	findTestObject('Object Repository/0_reusable/loadingBarTop')
-	]
-
-for (TestObject element : spinners) {
-	WebUI.waitForElementNotPresent(element, GlobalVariable.waitForTimeout)
-}
+CustomKeywords.'test.CustomYuri.waitForElementSpinnersNotPresent'()
 
 String selectedSortDropdown = WebUI.getText(findTestObject('Object Repository/2_Body/Search Result Page/2_Product Sections/1_Header/2_Sort Dropdown/div_selectDropdown'))
 String expectedDropdown = "${stringFilterBy}";

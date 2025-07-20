@@ -28,7 +28,7 @@ TestObject btnApplyPriceFilter = findTestObject('Object Repository/2_Body/Search
 TestObject titleSearchQueryResultObj = findTestObject('Object Repository/2_Body/Search Result Page/2_Product Sections/1_Header/1_Query Section/h1_titleSearchQueryResult')
 
 TestObject txtDikirimDariObj = findTestObject('Object Repository/2_Body/Search Result Page/1_Filter Sections/Dikirim Dari/div_dikirimDari')
-//WebUI.scrollToPosition(9999999, 9999999)
+
 WebUI.executeJavaScript("window.scrollTo(0, document.body.scrollHeight)", null)
 
 WebUI.scrollToElement(btnApplyPriceFilter, 0)
@@ -52,6 +52,8 @@ TestObject[] elements = [titleSearchQueryResultObj, strDifilterBerdasarkan, appl
 for (TestObject element : elements) {
     WebUI.waitForElementVisible(element, GlobalVariable.waitForTimeout)
 }
+
+CustomKeywords.'test.CustomYuri.waitForElementSpinnersNotPresent'()
 
 String STR_DIFILTERBERDASARKAN_TEXT = 'Difilter berdasarkan:'
 String expectedHargaPill = "Harga: ${minimumPrice}-${maximumPrice}"

@@ -39,5 +39,6 @@ for (TestObject element : elements) {
     WebUI.waitForElementVisible(element, GlobalVariable.waitForTimeout)
 }
 
-WebUI.verifyElementText(titleSearchQueryResultObj, searchQuery)
+CustomKeywords.'test.CustomYuri.waitForElementSpinnersNotPresent'()
 
+WebUI.verifyElementText(titleSearchQueryResultObj, searchQuery)
