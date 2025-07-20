@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4_Product Catalog - Sort By Price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0807194-a038-4685-a254-481f123800a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f0167df-cdda-422e-9705-b32333d2bfc8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Harga Rendah ke Tinggi'</defaultValue>
+      <description></description>
+      <id>6f0167df-cdda-422e-9705-b32333d2bfc8</id>
+      <masked>false</masked>
+      <name>stringFilterBy</name>
+   </variable>
+</TestCaseEntity>

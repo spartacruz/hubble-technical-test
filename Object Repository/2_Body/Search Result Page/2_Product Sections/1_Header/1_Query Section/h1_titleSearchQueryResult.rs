@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_titleSearchQueryResult</name>
+   <tag></tag>
+   <elementGuidId>a1baf20b-7ce9-4fcb-867f-3d9e97b34014</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.JrAyI</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='products']//following-sibling::div//div[@data-qa-locator='general-products']/preceding-sibling::div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>74005133-06de-454d-89ed-f5b51cdb567a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>JrAyI</value>
+      <webElementGuid>830f91ad-f17b-4ffc-ab21-0d69ea442f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.searchlist.0.i1.156878b5Si612d</value>
+      <webElementGuid>6f6a73be-a904-4dd3-960e-895aebe44a4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logitech Keyboard</value>
+      <webElementGuid>4a7b243c-2f94-4e85-bf64-7fcec0308e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8 css-1bkhbmc app&quot;]/div[@class=&quot;xYcXp&quot;]/h1[@class=&quot;JrAyI&quot;]</value>
+      <webElementGuid>c90088e7-1674-43da-8fdf-d665adfeecef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/h1</value>
+      <webElementGuid>195c1cd5-c632-4bf9-8d83-511e0b376b0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Voucher &amp; Diskon'])[1]/following::h1[1]</value>
+      <webElementGuid>879002ad-a272-4da0-b32d-440838d989f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa &amp; Tagihan'])[1]/following::h1[1]</value>
+      <webElementGuid>1e29a434-5cef-4c89-8502-c1af3077f830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logitech Keyboard'])[2]/preceding::h1[1]</value>
+      <webElementGuid>22bab136-d2ab-4fdb-9be3-98d6211c5ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logitech Keyboard']/parent::*</value>
+      <webElementGuid>25eb7f78-d523-45c7-8822-4306a30c912c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>8a83caf8-2f2d-4a46-8b18-f6274344a0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Logitech Keyboard' or . = 'Logitech Keyboard')]</value>
+      <webElementGuid>1b2e12c0-0636-4546-a099-cf6bb52e288e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

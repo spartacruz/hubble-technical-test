@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnApplyPriceFilter</name>
+   <tag></tag>
+   <elementGuidId>2d3d66e4-5eed-4127-80c6-8234de293fa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(text(), 'Harga')]/following-sibling::div//button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-1bkhbmc.app.ant-btn-primary.ant-btn-icon-only.yUcnk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51dbc7fb-e0d0-42a6-97f4-2c9a6bb982b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e389eec2-3507-4df9-b56b-d5b598fa50c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-1bkhbmc app ant-btn-primary ant-btn-icon-only yUcnk</value>
+      <webElementGuid>18ed66b0-3334-4e35-b62e-4d0c5736c432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-4 ant-col-pull-20 _8URhT css-1bkhbmc app&quot;]/div[@class=&quot;SEBPs&quot;]/div[@class=&quot;gJ98q&quot;]/div[@class=&quot;y9-OE&quot;]/div[@class=&quot;_1lPeN&quot;]/button[@class=&quot;ant-btn css-1bkhbmc app ant-btn-primary ant-btn-icon-only yUcnk&quot;]</value>
+      <webElementGuid>1b9cf4dc-e9ac-4142-b825-5df56ca962bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>98fa4bad-a491-43e2-be1b-9f6c7c82df55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[5]/div[2]/div/button</value>
+      <webElementGuid>8a221fb3-414f-457d-834f-d76a0295d992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::button[1]</value>
+      <webElementGuid>48b36990-599a-4ef1-aa84-8426e25a2d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::button[1]</value>
+      <webElementGuid>b6a10581-e974-4dad-a91e-a41e63febc8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rating'])[1]/preceding::button[1]</value>
+      <webElementGuid>14a34dc1-6ccd-445d-b0f8-1879e67c2568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>3ede0dbe-4f60-4fe5-b2f2-eb6a6aaa1592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>71234d32-9388-4f27-bd4b-47c958b12051</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

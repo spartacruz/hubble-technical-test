@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNavCart</name>
+   <tag></tag>
+   <elementGuidId>41e661b1-d230-4794-8b2a-f52b97606f45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class, 'lzd-nav-cart')]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lzd-nav-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf4afa73-8422-4a4a-9f20-5e9790512e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lzd-nav-cart</value>
+      <webElementGuid>5ed2cf27-d3cc-43ec-9667-ac71d7594173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.homepage.header.i1.1e42600dCtO4HB</value>
+      <webElementGuid>78b711a7-60da-431d-9e0d-ef8d7cb5b904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topActionHeader&quot;)/div[@class=&quot;lzd-header-content&quot;]/div[@class=&quot;lzd-logo-bar home&quot;]/div[@class=&quot;logo-bar-content header-content&quot;]/div[@class=&quot;lzd-nav-cart&quot;]</value>
+      <webElementGuid>20140bc7-a486-40c5-9256-bb7c0a289f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topActionHeader']/div/div[2]/div/div[3]</value>
+      <webElementGuid>0c9caddb-9dd2-49af-bcd8-99917d0d5f27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[1]</value>
+      <webElementGuid>9396bae9-55b3-44da-b775-e218467bdf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Lazada App Sekarang'])[1]/preceding::div[21]</value>
+      <webElementGuid>efda5667-cf07-4f76-91b7-548c78568e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati Berbagai Voucher'])[1]/preceding::div[24]</value>
+      <webElementGuid>5f162b5f-5cb9-482c-b38e-b44f8abb71a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]</value>
+      <webElementGuid>66366ef7-782b-4ada-ab64-42cc2a6c8925</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

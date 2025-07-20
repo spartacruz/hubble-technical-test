@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2_Search a Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>676a0be6-22c8-4269-a4e9-07e47f737627</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a210c49b-2810-4758-a7bf-c07b47146468</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Logitech Keyboard'</defaultValue>
+      <description></description>
+      <id>a210c49b-2810-4758-a7bf-c07b47146468</id>
+      <masked>false</masked>
+      <name>searchQueryKeyword</name>
+   </variable>
+</TestCaseEntity>

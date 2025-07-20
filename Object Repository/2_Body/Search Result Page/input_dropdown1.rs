@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_dropdown1</name>
+   <tag></tag>
+   <elementGuidId>208869c7-0320-4e14-8bf9-024ca823ed90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-select-selection-item > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='ant-select-selection-search']/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>485a78f2-6b52-4b83-bcf0-dcd8d27e56a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-click</name>
+      <type>Main</type>
+      <value>gostr=/lzdse.result.sort;locaid=d1</value>
+      <webElementGuid>f405670d-ea29-4dbb-b42e-1250c61e2ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Best Match</value>
+      <webElementGuid>cfc75327-872b-4c46-9a27-36beea666f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8 css-1bkhbmc app&quot;]/div[@class=&quot;xYcXp&quot;]/div[@class=&quot;yxhXW&quot;]/div[@class=&quot;Ky7ek&quot;]/div[@class=&quot;l70Qp&quot;]/div[@class=&quot;_7JpYS&quot;]/div[@class=&quot;ant-select ant-select-lg ant-select-outlined app ant-select-css-var css-1bkhbmc ant-select-single ant-select-show-arrow&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]/div[1]</value>
+      <webElementGuid>586be8a0-4ce6-4efb-9e56-3c10abf86c8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/div/div/span[2]/div</value>
+      <webElementGuid>23434f08-83b5-4cb6-9a2e-4a716c77ccde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan berdasarkan:'])[1]/following::div[4]</value>
+      <webElementGuid>3b191f17-5ef5-4018-a437-1b4886e4b329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat:'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e235259-9851-4304-a0b0-b07dbf402eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='keyboard ps2 logitech'])[1]/preceding::div[7]</value>
+      <webElementGuid>57385cc8-83f8-4328-97d7-d8dd46d266ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Best Match']/parent::*</value>
+      <webElementGuid>f375e5c7-5cce-4f78-806d-e675252ca2d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>7383e160-b235-4529-a4b8-4f7edcd4cda5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Best Match' or . = 'Best Match')]</value>
+      <webElementGuid>4d496ca6-3945-4c1a-adf7-a6067a1f3cc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

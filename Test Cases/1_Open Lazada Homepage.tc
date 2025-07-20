@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for open a lazada homepage</description>
+   <name>1_Open Lazada Homepage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba23c429-497d-4c3c-b6c0-2f7a856f6c23</testCaseGuid>
+</TestCaseEntity>

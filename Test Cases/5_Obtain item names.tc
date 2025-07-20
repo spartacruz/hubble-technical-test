@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5_Obtain item names</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c10323c9-92d4-41c7-a5c7-bc19fdae0800</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4313897d-c992-4254-83f8-44897207a457</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>4313897d-c992-4254-83f8-44897207a457</id>
+      <masked>false</masked>
+      <name>scrapeToPage</name>
+   </variable>
+</TestCaseEntity>

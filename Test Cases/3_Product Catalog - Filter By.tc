@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3_Product Catalog - Filter By</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d791a6f-67e8-4380-a366-cc087521215c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76c86051-c6b3-4c2c-9973-63cc31314e42</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>359d4c9b-3f2a-4de1-860f-dbfa6f408062</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>76c86051-c6b3-4c2c-9973-63cc31314e42</id>
+      <masked>false</masked>
+      <name>minimumPrice</name>
+   </variable>
+   <variable>
+      <defaultValue>'3000000'</defaultValue>
+      <description></description>
+      <id>359d4c9b-3f2a-4de1-860f-dbfa6f408062</id>
+      <masked>false</masked>
+      <name>maximumPrice</name>
+   </variable>
+</TestCaseEntity>

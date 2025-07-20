@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_diFilterBerdasarkan</name>
+   <tag></tag>
+   <elementGuidId>76a79dd6-575e-4375-8dff-7daca79ec1f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.FWuO7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(), 'Difilter berdasarkan')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b22f3119-e3be-4251-a768-972b69f60e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FWuO7</value>
+      <webElementGuid>5cb795b4-6727-4cb5-b14a-87e2e59381e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.searchlist.0.i3.156878b5Si612d</value>
+      <webElementGuid>7e4911d7-a176-4418-a549-0c110a91c4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Difilter berdasarkan:</value>
+      <webElementGuid>68b3a055-5433-40f6-af9e-299f39bb03ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-24 css-1bkhbmc app&quot;]/div[@class=&quot;ant-row css-1bkhbmc app&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8 css-1bkhbmc app&quot;]/div[@class=&quot;pmGuc&quot;]/span[@class=&quot;FWuO7&quot;]</value>
+      <webElementGuid>539f1a8e-8df5-4798-a6c1-5967611bc75d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/span</value>
+      <webElementGuid>7d2c89de-d003-4d19-bb3d-a86221c1fd0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat:'])[1]/following::span[3]</value>
+      <webElementGuid>22941701-3d4f-48bb-9b06-ca864e9582ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Best Match'])[1]/following::span[5]</value>
+      <webElementGuid>8b64de94-9bf8-4876-bc6d-f85bb2923854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus semua'])[1]/preceding::span[3]</value>
+      <webElementGuid>38ad2829-03e8-40f5-b031-8c9779b3228b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Difilter berdasarkan']/parent::*</value>
+      <webElementGuid>7f9f5b3f-a3b2-4857-aca4-0635d96df2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>d58763c8-e5c6-4cd1-b684-f817d1270ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Difilter berdasarkan:' or . = 'Difilter berdasarkan:')]</value>
+      <webElementGuid>bd8c4202-ae35-441b-a602-15c45986c074</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

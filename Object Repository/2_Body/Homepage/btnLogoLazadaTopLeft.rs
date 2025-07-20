@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnLogoLazadaTopLeft</name>
+   <tag></tag>
+   <elementGuidId>8a778de1-4dd5-4647-a74e-61d14532e59f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='lzd-logo-content']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lzd-logo-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23a5b236-7029-4ec1-9ab4-b94ad81b828d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lzd-logo-content</value>
+      <webElementGuid>9455197c-47e8-46a1-83d2-e91ce158fcec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topActionHeader&quot;)/div[@class=&quot;lzd-header-content&quot;]/div[@class=&quot;lzd-logo-bar home&quot;]/div[@class=&quot;logo-bar-content header-content&quot;]/div[@class=&quot;lzd-logo-content&quot;]</value>
+      <webElementGuid>94d84cac-bc37-41b2-9a69-3d8cd3253c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topActionHeader']/div/div[2]/div/div</value>
+      <webElementGuid>f0f882f9-b6c4-4762-954b-f356adb612a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/preceding::div[2]</value>
+      <webElementGuid>d0af6292-ef37-469c-af02-c1b3c02b9c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Lazada App Sekarang'])[1]/preceding::div[27]</value>
+      <webElementGuid>66c4773e-eb5b-4f1e-b23d-67f2ac0b2e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>3c85bd19-48c0-46cc-8315-78212f375bac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
